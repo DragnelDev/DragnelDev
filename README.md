@@ -1,29 +1,52 @@
-# 💡 MacDev | Informatico
+# 💡 MacDev | Develop Junior
 
 ### Enfocado en la eficiencia, escalabilidad y buenas prácticas de código.
 
-Soy un desarrollador con 6 meses de experiencia creando soluciones robustas y escalables, con una especialización en **desarrollo full-stack con NestJS en lado del Backend y Vue en el Frontend]**. Mi pasión es transformar requisitos complejos en código funcional y mantenible.
+Soy un desarrollador con 6 meses de experiencia creando soluciones robustas y escalables, con una especialización en **desarrollo full-stack con NestJS en lado del Backend y Vue en el Frontend**. Mi pasión es transformar requisitos complejos en código funcional y mantenible.
 
-Mi objetivo es contribuir a proyectos de alto impacto y seguir mi camino hacia un rol de **Informatico**.
+Mi objetivo es contribuir a proyectos de alto impacto y seguir mi camino hacia un rol de **Full-Stack**.
 
 ---
 
-## 💻 Habilidades Técnicas Clave
+## 💻 Stack Tecnológico
 
-Aquí puedes ser un poco más selectivo y centrarte en las tecnologías que más te diferencian.
+### 🛠️ Dominio Principal (Core Focus)
 
-| Tipo | Tecnologías |
+Estas son las tecnologías con las que tengo la mayor confianza y experiencia.
+
+| Tecnología | Nivel de Experiencia | Insignia |
+| :--- | :--- | :--- |
+| **JavaScript / TypeScript** | $\color{green}\text{██████████}\color{gray}\text{░░}$ (Avanzado) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Python / Java / C#** | $\color{green}\text{████████}\color{gray}\text{░░░░}$ (Intermedio Alto) | ![C#](https://img.shields.io/badge/-C%23-000000?logo=dotnet) |
+| **Vue / Reat** | $\color{green}\text{███████}\color{gray}\text{░░░░░}$ (Intermedio) | ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) |
+
+---
+
+### 🌐 Desarrollo Web y Servicios (Web & Services)
+
+#### **Frontend & UI**
+* **Lenguajes:** HTML5, CSS3, **SASS/Tailwind CSS**.
+* **Gestión de Estado:** Experiencia en librerías como **Redux** o **Zustand**.
+*  **Diseño:** Experiencia en herramientas de diseño como **Figma** y **Draw.io**
+* **Prácticas:** Principios de **Diseño Responsivo** y **accesibilidad** básica.
+
+#### **Backend & Datos**
+* **Servicios:** Creación de **APIs RESTful** y familiaridad con conceptos de **GraphQL**.
+* **Base de Datos:** Manejo de consultas complejas en **PostgreSQL** y modelado en **MongoDB/MySQL**.
+* **Estructura:** Conocimiento de patrones de diseño como **MVC** y arquitectura limpia.
+
+---
+
+### ☁️ Herramientas y DevOps (Tools & Workflow)
+
+Demuestra que conoces los procesos modernos de desarrollo.
+
+| Categoría | Herramientas Específicas |
 | :--- | :--- |
- **Lenguajes Principales** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **Bases de Datos** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Lenguajes Robustos** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Frameworks de Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| **Bases de Datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **DevOps y Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| **Control de Versiones** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-
+| **Control de Versiones** | **Git** (experiencia con `rebase` y `cherry-pick`), **GitHub/GitLab/Bitbucket**. |
+| **Contenedores y Cloud** | **Docker** (creación y gestión de imágenes), Introducción a servicios de **Cloud**. |
+| **Pruebas** | Desarrollo Dirigido por Pruebas (**TDD**) con **Jest/JUnit** y pruebas de E2E con **Cypress/Selenium**. |
+| **Entorno** | Uso avanzado de **VS Code** e interacción con entornos Linux/Bash. |
 ---
 
 ## 🎯 Enfoque y Metodología
@@ -63,17 +86,16 @@ Estoy enfocado en profundizar mis conocimientos en:
 * **Pruebas Unitarias o CI/CD** para escribir código más robusto y fiable.
 
 ---
-
-## 🤝 Conéctate Conmigo
 <!--
+## 🤝 Conéctate Conmigo
+
 | Plataforma | Enlace |
 | :--- | :--- |
 | **LinkedIn** | [Tu perfil de LinkedIn](URL) |
 | **Portfolio/Web Personal** | [Tu Sitio Web](URL) |
 | **Correo Electrónico** | [Tu.Correo@ejemplo.com](mailto:Tu.Correo@ejemplo.com) |
--->
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**DragnelDev**&layout=compact&theme=vision-friendly-dark" alt="Lenguajes Más Usados" />
 </p>
-
----
+-->
